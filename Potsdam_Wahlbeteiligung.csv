@@ -1,0 +1,113 @@
+Bezirksnummer,Name,Wahlbeteiligung_kw2019,Wahlbeteiligung_euro2019,Wahlbeteiligung_lwerst2019,Wahlbeteiligung_bw2021,Wahlbeteiligung_kw2024,Wahlbeteiligung_euro2024
+1101.0,Bornim - Max-Eyth-Allee/Lerchensteig,44.27,44.66,50.98,50.4,52.64,52.88
+1102.0,Bornim - Ortslage/Hügelweg,52.95,54.15,58.15,51.15,54.36,55.88
+1301.0,"Nedlitz, Bornstedt - Viereckremise",49.04,49.8,53.08,46.03,52.32,53.7
+1302.0,Bornstedt - Fliederweg,52.69,52.39,53.68,48.5,55.84,55.93
+1303.0,Bornstedt - Am Krongut/Katharinenholzstr,49.45,50.13,53.65,50.87,49.79,50.5
+1304.0,Bornstedt - Kirschallee/Thaerstr.,49.49,49.21,55.36,46.23,55.03,55.49
+1306.0,Bornstedt - Hermann-Mattern-Promenade,61.3,61.45,66.29,55.21,61.06,61.31
+1309.0,Bornstedt - A.-Wolff-Platz/E.-Arendt-Str,47.46,50.12,48.62,44.66,46.22,47.68
+1501.0,Eiche - Altes Rad Ost,49.47,49.77,53.86,45.58,53.13,53.35
+1501.0,"Werder (Havel), Traumfänger",49.47,49.77,61.55,45.58,53.13,53.35
+1701.0,Golm - Ehrenpfortenbergstr.,48.45,48.96,57.25,48.41,52.92,54.53
+1702.0,Golm - Geiselbergstr./Am Mühlenberg,48.76,52.83,55.88,49.11,51.24,54.49
+2102.0,Nauener Vorstadt - Neuer Garten,48.76,49.34,50.15,42.16,46.45,46.69
+2103.0,Nauener Vorstadt - Russische Kolonie,54.56,54.54,56.61,50.22,53.75,54.27
+2104.0,Nauener Vorstadt - Rote Kaserne/SAP,51.05,52.04,52.99,50.67,56.91,57.85
+2201.0,Jägervorstadt - Am Ruinenberg,48.41,48.52,51.78,46.8,50.5,50.92
+3103.0,Brandenburger Vorstadt - Clara-Zetkin-S.,49.34,49.91,48.24,44.44,52.98,53.99
+3201.0,Potsdam West - Geschwister-Scholl-Str.,47.05,47.47,50.84,46.82,49.8,50.17
+3203.0,Potsdam West - An der Pirschheide,47.25,46.82,50.39,40.9,44.46,44.98
+4102.0,Innenstadt - Kurfürstenstr.,46.78,47.22,47.0,40.89,45.71,46.64
+4103.0,Innenstadt - Hans-Thoma-Str./Türckstr.,42.67,43.46,45.08,41.64,44.61,45.78
+4105.0,Innenstadt - Yorckstr.,49.96,51.36,56.98,47.52,51.36,51.81
+4107.0,Innenstadt - Burgstr.,42.96,43.25,48.85,44.86,47.46,48.2
+5201.0,Babelsberg Nord - Klein Glienicke,52.24,52.4,54.17,46.54,51.96,53.26
+5202.0,Babelsberg Nord - Karl-Marx-Str./Donarst,52.63,53.06,55.69,47.56,50.82,51.13
+5206.0,Babelsberg Nord - Alt Nowawes West,51.53,51.72,57.17,48.68,52.8,53.32
+5208.0,Babelsberg Nord - Goetheplatz,58.35,58.79,61.84,54.49,60.15,60.69
+5301.0,Babelsberg Süd - Neuendorfer Anger,50.0,50.66,53.65,50.49,56.66,56.83
+5302.0,Babelsberg Süd - H-v-Kleist-Str./Wattstr,50.08,49.66,53.46,51.44,55.28,56.07
+5307.0,Babelsberg Süd - An den Windmühlen,48.56,49.9,51.33,49.44,52.25,53.3
+5308.0,Babelsberg Süd - Schulstr./Fultonstr.,55.83,56.57,57.83,52.17,58.47,59.59
+5309.0,Babelsberg Süd - Walter-Klausch-Str.,54.45,55.25,56.3,52.81,53.27,54.25
+6101.0,"Templiner Vorstadt, Forst Potsdam Süd",44.52,46.52,46.54,43.92,49.27,49.71
+6301.0,Schlaatz - Sperberhorst,33.99,35.99,40.28,43.89,41.85,44.43
+6305.0,Schlaatz - Inselhof/Bisamkiez,30.95,32.77,32.06,42.23,38.33,41.5
+6401.0,Waldstadt I - Käthe-Kollwitz-Str.,41.46,41.98,45.01,43.6,45.56,45.68
+6402.0,Waldstadt I -Am Stadtrand/Industriegelän,41.7,42.37,44.56,49.21,42.31,43.61
+6403.0,Waldstadt I - Bernhard-Kellermann-Str.,42.68,42.54,48.91,48.54,47.74,48.37
+6404.0,Waldstadt I - Bertolt-Brecht-Str.,42.2,42.96,47.23,45.33,47.31,47.44
+6501.0,Waldstadt II - Zum Kahleberg,40.17,40.76,47.92,46.59,42.36,43.75
+6502.0,Waldstadt II - Ginsterweg,34.15,34.84,39.88,43.73,44.31,44.95
+7104.0,Stern - In der Aue/Gluckstr.,46.82,48.32,52.06,48.7,51.75,53.89
+7105.0,Stern - Parforceheide,43.68,44.86,47.04,45.57,45.46,47.33
+7110.0,Stern - Otto-Hahn-Ring,30.75,31.91,36.31,37.49,36.6,38.3
+7201.0,Drewitz - Alt Drewitz/Am Silbergraben,46.52,46.49,51.87,50.05,52.98,53.15
+7203.0,Drewitz - Paul-Wegener-Str./Priesterweg,30.69,32.32,37.07,46.68,40.81,43.3
+8201.0,Marquardt,53.94,54.24,56.56,57.82,57.72,59.15
+8301.0,Satzkorn,58.07,62.31,58.53,57.61,63.36,63.57
+8404.0,Fahrland - Kietzer Str./Pastor-Moritz-St,37.02,38.09,38.3,45.68,43.52,45.52
+8501.0,Neu Fahrland,46.28,46.91,52.38,49.05,54.18,54.85
+8601.0,Groß Glienicke - Glienicker Dorfstr.,44.17,45.98,47.16,43.42,47.86,49.02
+1305.0,Bornstedt - Stechlinweg,44.8,45.43,45.43,43.8,47.19,47.69
+1307.0,Bornstedt - Jakob-von-Gundling-Str.,48.14,48.33,50.29,45.76,47.0,47.26
+1308.0,Bornstedt - Reiherweg/David-Gilly-Str.,41.1,41.16,43.89,39.18,42.27,43.05
+1502.0,"Werder (Havel), Gymnasium I",41.26,44.93,53.26,41.24,42.78,45.84
+1502.0,Eiche - Kaiser-Friedrich-Str. Süd,41.26,44.93,44.25,41.24,42.78,45.84
+1503.0,Eiche - Altes Rad West/Lindstedter Str.,48.63,49.31,53.87,48.14,54.05,54.38
+1503.0,"Werder (Havel), Gymnasium II",48.63,49.31,55.0,48.14,54.05,54.38
+1601.0,Grube,55.01,55.42,60.87,52.91,49.03,49.3
+2101.0,Nauener Vorstadt - Bertiniweg/Glumestr.,47.95,48.17,51.39,40.47,48.33,48.49
+2302.0,Berliner Vorstadt - Schiffbauergasse,51.59,52.31,53.86,46.04,52.5,52.94
+3102.0,Brandenburger Vorstadt - Feuerbachstr.,51.45,53.37,50.43,48.97,51.64,53.12
+3104.0,Brandenburger Vorstadt - Auf dem Kiewitt,47.62,48.29,52.35,49.88,50.5,51.47
+3105.0,Brandenburger Vorstadt - Park Sanssouci,55.3,55.34,57.81,47.96,55.46,55.47
+3107.0,Brandenburger Vorstadt - Schillerplatz,46.97,47.34,54.34,52.34,49.68,50.62
+3202.0,Potsdam West - Haeckelstr.,47.66,47.86,50.13,51.28,48.52,49.16
+3205.0,Potsdam West - Im Bogen/Am Wildpark,51.38,53.01,58.72,53.47,55.86,57.06
+4101.0,Innenstadt - Schopenhauerstr./Jägerallee,49.72,50.62,55.45,49.66,49.33,50.3
+4109.0,Innenstadt - Bassinplatz,40.34,40.82,46.84,43.96,46.03,47.57
+5204.0,Babelsberg Nord - Plantagenplatz,58.66,58.35,60.36,53.75,56.33,56.53
+5207.0,Babelsberg Nord - Rathaus/Humboldtbrücke,49.3,49.32,51.44,47.18,51.17,52.11
+5304.0,Babelsberg Süd - Paul-Neumann-Str.,50.96,50.56,52.08,47.64,48.06,48.55
+6201.0,Teltower Vorstadt - Kolonie Daheim,50.82,50.92,51.95,47.19,52.46,52.63
+6203.0,Teltower Vorstadt - Siedlung Eigenheim,56.4,56.59,58.47,51.56,55.27,55.52
+6303.0,Schlaatz - Erlenhof,31.68,34.35,37.03,43.25,38.85,43.02
+6304.0,Schlaatz - H.-Muthesius-Str./Binsenhof,31.75,33.09,35.75,38.52,34.38,36.0
+6505.0,Waldstadt II - Am Springbruch,36.35,36.95,41.58,44.52,42.25,43.27
+7106.0,Stern - Johannes-Kepler-Platz/Chopinstr.,37.87,39.56,42.23,43.48,42.72,44.12
+7108.0,Stern - Leibnizring,30.96,31.65,37.28,45.69,40.61,41.82
+7111.0,Stern - Jagdhausstr./Eulenkamp,45.56,45.91,48.21,46.26,46.65,47.3
+7113.0,Stern - Kohlhasenbrücker Str.,43.14,43.76,52.08,50.77,51.18,52.21
+7202.0,Drewitz - Sterncenter/Erich-Pommer-Str.,37.9,38.57,41.48,35.03,40.43,42.58
+7301.0,Kirchsteigfeld - Eleonore-Prochaska-Str.,42.35,42.68,48.07,49.16,44.67,46.2
+7302.0,Kirchsteigfeld - Priesterweg,37.76,39.17,45.81,51.12,48.98,50.99
+8402.0,Fahrland - Kartzower Dorfstr.,40.38,42.97,47.33,44.37,47.41,51.35
+8602.0,Groß Glienicke - Bullenwinkel/Braumannwe,50.41,50.62,53.09,48.18,55.84,56.17
+8603.0,Groß Glienicke - Bergstr./Seepromenade,52.92,53.58,56.07,54.16,51.93,52.07
+2202.0,Jägervorstadt - Am Weinberg/Ulanenweg,51.41,51.76,53.9,45.08,50.0,50.84
+2301.0,Berliner Vorstadt - Ludwig-Richter-Str.,48.48,48.18,47.73,40.49,40.28,41.13
+3101.0,Brandenburger Vorstadt - Luisenplatz,42.06,42.36,47.26,42.16,42.04,43.28
+3106.0,Brandenburger Vorstadt - Tschäpe-Platz,59.33,60.14,59.39,47.18,55.64,56.74
+3108.0,Brandenburger Vorstadt - Hans-Sachs-Str.,60.21,61.21,62.09,52.78,56.44,56.63
+3204.0,Potsdam West - Knobelsdorffstr.,42.69,44.15,49.92,49.36,50.87,51.75
+4104.0,Innenstadt - Wall am Kiez/Luisenplatz,48.28,49.07,51.68,44.63,46.76,47.05
+4106.0,Innenstadt - Alter Markt/Wall am Kiez,37.68,38.36,42.43,39.62,47.6,48.62
+4108.0,Innenstadt - Brandenburger Str. Nord,52.8,54.85,55.35,48.88,50.51,51.98
+5203.0,Babelsberg Nord - Fontanestr.,56.33,56.01,54.98,48.85,50.08,51.2
+5205.0,Babelsberg Nord - Weberplatz/Alt Nowawes,57.19,57.5,57.53,50.13,53.83,54.35
+5303.0,Babelsberg Süd - Benzstr./Pestalozzistr.,52.54,52.44,56.74,52.06,55.43,56.32
+5305.0,Babelsberg Süd - Dianastr./Sandscholle,46.58,46.17,47.37,46.31,48.32,48.5
+5306.0,Babelsberg Süd - Marlene-Dietrich-Allee,54.21,56.66,52.51,47.5,49.63,51.96
+6202.0,Teltower Vorstadt - Kunersdorfer Str.,50.96,50.84,52.7,44.42,53.95,54.64
+6503.0,Waldstadt II - Kiefernring/Sonnentaustr.,37.17,37.91,39.16,40.56,41.63,42.84
+6507.0,Waldstadt II - Moosglöckchenweg,43.42,44.94,47.14,51.25,47.12,48.97
+7101.0,Stern - Musikerviertel,47.81,48.11,50.3,45.01,49.05,49.84
+7102.0,Stern - Lilienthalstr.,40.14,41.0,44.17,45.47,45.25,46.83
+7103.0,Stern - Fichtenallee/Im Schäferfeld,42.64,43.03,48.09,48.11,48.94,50.23
+7205.0,Drewitz - Willy-A.-Kleinau-Weg,29.55,30.44,35.01,44.77,39.05,42.07
+7303.0,Kirchsteigfeld - Zum Teich/Schinkelstr.,51.58,52.0,57.18,55.96,59.26,59.98
+7304.0,Kirchsteigfeld - Pierre-de-Gayette-Str.,43.14,43.15,47.69,53.58,50.24,51.13
+8101.0,Uetz-Paaren,51.6,52.92,50.28,51.57,54.99,58.33
+8401.0,Fahrland - V.-Stechow-Str./Rotkehlchenwe,43.45,45.33,52.04,45.59,50.63,52.13
